@@ -5,7 +5,7 @@
 
 - [wiki常用编辑格式](wiki edit)
 
-###[异常汇总] (error page1)###
+###[异常汇总] (error page)###
 
 
 ###自定义控件###
